@@ -4,7 +4,7 @@ A collections of NGINX configs.
 ## Example usage
 
 ```Dockerfile
-ADD https://raw.githubusercontent.com/chocolatefrappe/nginx-configs/main/configs/errors/json-errors.conf /etc/nginx/chocolatefrappe/errors/json-errors.conf
+ADD https://raw.githubusercontent.com/chocolatefrappe/nginx-configs/main/configs/cloudflare.conf /etc/nginx/chocolatefrappe/cloudflare.conf
 ```
 
 ## License
